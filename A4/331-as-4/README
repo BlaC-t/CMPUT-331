@@ -1,0 +1,21 @@
+Cmput 331 Assignment 4 README
+
+Student: Zhiyu Li (Titus)
+Student Number: 1666065
+
+1. The following acknowledgement of url will be all the resources I have used to write assignment 4
+2. The assignment is discussed with Rui Huang on basic concepts.
+
+# The default code for a4p1 and a4p2 is from textbook and eclass
+
+# Using a value to find the key that contains a list of values
+# https://note.nkmk.me/en/python-dict-get-key-from-value/
+
+# combination of keys for substitution cipher
+# https://stackoverflow.com/questions/464864/get-all-possible-2n-combinations-of-a-list-s-elements-of-any-length
+
+# Initialize a dict with all its value been empty list
+# https://www.geeksforgeeks.org/python-initializing-dictionary-with-empty-lists/
+
+# re.sub()
+# https://builtin.com/software-engineering-perspectives/python-remove-character-from-string
